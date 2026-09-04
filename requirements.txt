@@ -1,8 +1,4 @@
-# Tested on Python 3.13.1
-# =======================
-# In the terminal use:
-#    pip install -r ./requirements_3.13.txt
-#
+
 blinker==1.9.0
 click==8.1.8
 colorama==0.4.6
